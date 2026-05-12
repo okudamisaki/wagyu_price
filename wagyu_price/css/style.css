@@ -37,6 +37,7 @@ p {
 
 .card {
   border-radius: 0;
+  background-color : yellow;
 }
 
 .submit-color {
